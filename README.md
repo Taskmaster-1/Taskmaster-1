@@ -1,5 +1,3 @@
-<img src="https://as1.ftcdn.net/jpg/02/09/21/48/1000_F_209214808_hGRtgY7FkyigiC7m2ZdUWU6GnXZi81Cf.webp" alt="Banner" width="100%">
-
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 <h3 align="center">Empowering Data-Driven Insights with Passion and Expertise</h3>
 
