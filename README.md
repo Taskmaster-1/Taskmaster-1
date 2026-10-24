@@ -5,10 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
-- 🌱 I’m currently learning **Gen AI**
-
-- 💬 Ask me about **ML, DL, NLP**
-
 - 📫 How to reach me **i.am.vivekyadav5223@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,7 +12,7 @@
 <a href="https://twitter.com/iamvivekyadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamvivekyadav_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/taskmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taskmaster" height="30" width="40" /></a>
 <a href="https://kaggle.com/taskmaster-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="taskmaster-1" height="30" width="40" /></a>
-<a href="https://instagram.com/am_i_vivekyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="am_i_vivekyadav" height="30" width="40" /></a>
+<a href="https://instagram.com/vivek.esc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="am_i_vivekyadav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
